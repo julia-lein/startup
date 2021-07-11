@@ -1,0 +1,16 @@
+.services i:before{
+border: 3px solid black;
+border-radius: 30%;
+padding: 10px;
+}
+
+.services i{
+  color:red;
+  margin: 10px;
+  margin-bottom: 30px;
+}
+
+.services i:hover{
+  color: blue;
+  cursor: pointer;
+}

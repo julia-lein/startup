@@ -1,0 +1,16 @@
+footer
+{
+    color: white;
+    margin: 0;
+    padding: 20px;
+    background: #c0301c;
+
+}
+.footerTxt
+{
+    font-size: 12px;
+}
+footer i{
+    color: white;
+    font-size: 26px
+}
