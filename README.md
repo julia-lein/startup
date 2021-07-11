@@ -1,2 +1,4 @@
-# startup
-Group Project - Landing Page of Startup
+# Landing Page of Startup
+Group Project
+
+- HTML, CSS, Bootstrap
